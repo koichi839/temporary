@@ -32,48 +32,12 @@
          <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EUcommon</URI>
          <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EE</URI>
       </SchemeTypeCommunityRules>
-      <SchemeTerritory>EE</SchemeTerritory>
+      <SchemeTerritory>JP</SchemeTerritory>
       <PolicyOrLegalNotice>
          <TSLLegalNotice xml:lang="en">The present TSL implementation of test certificates is not applicable to any legal frameworks</TSLLegalNotice>
       </PolicyOrLegalNotice>
       <HistoricalInformationPeriod>65535</HistoricalInformationPeriod>
       <PointersToOtherTSL>
-         <OtherTSLPointer>
-            <ServiceDigitalIdentities>
-               <ServiceDigitalIdentity>
-                  <DigitalId>
-                     <X509Certificate>MIIEvDCCAqQCCQC/HGif/u6k6TANBgkqhkiG9w0BAQUFADAgMQswCQYDVQQGEwJFRTERMA8GA1UEAxMIVGVzdCBUU0wwHhcNMTQwNjI1MDkxMDMwWhcNMTUwNjI1MDkxMDMwWjAgMQswCQYDVQQGEwJFRTERMA8GA1UEAxMIVGVzdCBUU0wwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDCU3NdeUa4xMF78VfYPGDDGC4yd2bYboF4C2R7mfUcoaIGOZ4VCShl9ojjQY0a4/7QEI5FPDwvziydN9UFlCRYmb7YrANXL1WS71aLapLM9KuT6e0siFgh1HLeZA0YcdL7opRCVAKxejHuWShuRdvJsNXiv/nKg35I6NPW5OP7IM4HR71CqGcWgtlFkL7sqs943vccpLZa23XQcAfngW0VdPSxuz4R/kzNkIFXBjrPSpjR74006e9csrKxJmebKfGqIIOu0waFVmXsWbj46p05PLpfsVX+lJ8O9CVtq0p4R4BzcUHh4zLJpUDZlRcK0t64EjTSnH4OgEP+qH/zhBxDb8maCRqyZT7iY6e/VBbfwub7ZhNzAnPYd7yGbBz7PIBWEqDNLtTBVq7rlYd63ap2TEvXKczh50IJEM8DTdAWpHG6iRcB17nqxI3U8iq/bPVhcT/OW4Dhb9ZdEllJzCgvpDpv/yBZ/F1tggQwrtjZ4cvZ6AXt+Bb5j5vZpcxbl1Q/2a4dcFMCXfxuuoboXPlFY1ElQGiF3oOV/iVRBNn6gnv0b3+qB1sQlLii4nS/fxwAehsH5z3m4fuLgZKfT9AcpR1e8jJQLJne0dTX0spc1yOVi8nv/PvpZGh3OI/rZfGP2pUU4RQnV96Fw/VBeYFv48+mcwMta+HpaaNTNvmzhQIDAQABMA0GCSqGSIb3DQEBBQUAA4ICAQB9gBvNxbsw/iGCXlbqrqZMjvvMqJVEsSIYe7Hb3mBiPAw50zxBTVXPY9nq5P2nD1hWK/sQMLVTbhQ/rSbiiEzMizEEhMAj5NzLrGm5qDFJeJjvqvsV+IehO9E4sKZ5GI9lhbuOcPo5N1YGSDrtqJpPPKhSv4TeOtl7Y1uCSMq8R9Y3XjNBqv0BsdlnMq6ugBQ74eiOwrIdy2jCIbzNn9ZJtbTiOnVSlaywMiaRkjslkajnFDvMj3pmh9R9/r+/cGMosCVMEqxFYcNjn2CU1S9mslnZb2U/LBYm/WhHF3V1PDN56NaIgBVJAXOJgeQGKvDKHddDMjavSanXQbZeEaikH8znON+HiasNVG/Y7ZBMQTcoWJZ23q07tDQSXCDfgl1AhhaAxgsCnf+yfwWaxHjhygx40VzJnEiBTzAVnqDGW0cezpRnP8huueen38ptKjI46JFR+CgW0ckyFpNtE5AaR0vJuJl8lSpAkXtmIC6iGxsnszV519MXZxpXI0QXAhZQmkw7HPvy/aWxqmX8yyy5Yh2en25631GHt5LtSc1iiGpX0/x+rAiRjDcU5AAEOB4XWF3+NSc7Tyl09trfisQcWp9vCEFSIAwhiErpMvmP+yK/Emh7nZwqU4ueAj3OvggqPsg0Soaixr/UQC9T+rIwifv1Bh2q+VXGqdLG62Ay5Q==</X509Certificate>
-                  </DigitalId>
-               </ServiceDigitalIdentity>
-               <ServiceDigitalIdentity>
-                  <DigitalId>
-                     <X509Certificate>MIIEvDCCAqQCCQCL/COUVyiGjTANBgkqhkiG9w0BAQUFADAgMQswCQYDVQQGEwJFRTERMA8GA1UEAwwIVGVzdCBUU0wwHhcNMTgxMTE1MTI1MjU1WhcNMjgxMTEyMTI1MjU1WjAgMQswCQYDVQQGEwJFRTERMA8GA1UEAwwIVGVzdCBUU0wwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDfFK0fYeGrdngMZXZndDEpcl9pjGGNpbie3+ch5mDqObUe+OL45b4+SfPapriVRNBa+m5T1TuijP7Kb8sTNS9U3WQYvY8bEstPZnaEvdQSSVRf4j9eVg+RTJ8Y4jjZ02GbLwrpELD2Qs+ohCl8e64G29qutchv6nJqOdbL5U+d6DKyrzSpZyMRPA+UmB78KsBTs0o3wME7IA9J37YgtpUZifcC4LdgTWrX2eBICGPqi7GGKzdnI5LDhCJZnHwzva+6lBwa8fW5aXQG69uPTFmd/pNNF6+8f2FcYGljQiD6FYVKAUfYRBlw9ymKaIbNmyh9bs71ezPrI4ltOLjmZLZFRouSIaeExfzj2FkWERNG/iAuEIRolyyXjqjiQIuiEi8uo6sg1cPrD59EuWtTcMzTxuhVU8Ra37F6DrMEipqh84zQcnT0i/RNk4K723aB9uWwHJgJ5Y2/6cbta7ZkYsfQfjBC4nBRVyUlBCpEFYNePbKttYF5Cf5FraMlGzAY0W/MSIUxvRmlkjCzBod4LA+K/hQxEiw7Xa8OAZfw9l9lmSnia+fgRz3fLKxg3yklw6rA/2aISb83uVRvxgqKym3EeJ/+CsOQpwOblEBxWfQizah1Ct4NhsuKLmBbopxAXLqz25E+3BvvsM4nuwWVfoyvTVXYQ+k4V/hj2iS5buJ5twIDAQABMA0GCSqGSIb3DQEBBQUAA4ICAQAGTw5MJurTeeWy+jQikGfivrxt9lzqt+uSV8D6V1GBzBAl8m4SqSY0U8KM/gtqh9bhmQwm0qgx/mKcDKzCUKajXPKm/NbR+pjZD9Lcx4Iy0iqi9rsxSKECGM2dYAmm7GXnXvz9QUxZjteTgYoRP2s6GfosvTQiUEr/cIrYAU3wC0/94pRb9/FLVVon/aVdsh+Dqb4j7BhKLzXNCNjkv1Sv/YL1zpe/2SPxe0Bfymys97lcu1DB01e/MLfqQJThYOblMte/zGNZO24HcvROIkyoUtYy5/H4F5rsamSGMNdBfauTtYxz7lOT7qQoDNyGMN9bfjWnkVi/lV2CVooeiHIs7wLWEhYmU9DiAzcmODU9uMRRBlGOWK8UQg05exc518heICmudSbgSyQLGqzVoI4kybhmBA3w93KEXJSXlnU7hBzoYDP2d1g46Ay59UtvLycS1kxe0jVjxxRnh/f9aPbMwUYBzEC0naUzMeJtElHLHgW4HT6PLgFImgLLFh8dnYJUzn35wz10g3YBA61YUJuODpapKHixn/2X/t/8Vf1vqr/VwiwUglNQj+P78Fdb3T56JsYRG1bdf6nz5dvv4qtLoG+OjPI/tiLjh2ktqaMjeVmlQFchy/C5Lr48d9IGmo+x2ECYSWVvwzxI7PIbYBI4oaPjh2zKIrz/AlY2RmqMMA==</X509Certificate>
-                  </DigitalId>
-               </ServiceDigitalIdentity>
-            </ServiceDigitalIdentities>
-            <TSLLocation>https://koichi839.github.io/tools/tl-mp-test-EE.xml</TSLLocation>
-            <AdditionalInformation>
-               <OtherInformation>
-                  <TSLType>http://uri.etsi.org/TrstSvc/TrustedList/TSLType/EUlistofthelists</TSLType>
-               </OtherInformation>
-               <OtherInformation>
-                  <SchemeOperatorName>
-                     <Name xml:lang="en">Information System Authority</Name>
-                  </SchemeOperatorName>
-               </OtherInformation>
-               <OtherInformation>
-                  <SchemeTypeCommunityRules>
-                     <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EUlistofthelists</URI>
-                  </SchemeTypeCommunityRules>
-               </OtherInformation>
-               <OtherInformation>
-                  <SchemeTerritory>EE_T</SchemeTerritory>
-               </OtherInformation>
-               <OtherInformation>
-                  <tslx:MimeType>application/vnd.etsi.tsl+xml</tslx:MimeType>
-               </OtherInformation>
-            </AdditionalInformation>
-         </OtherTSLPointer>
             <OtherTSLPointer>
                 <ServiceDigitalIdentities>
                     <ServiceDigitalIdentity>
@@ -147,7 +111,7 @@
                      <Locality>Tallinn</Locality>
                      <StateOrProvince>Harjumaa</StateOrProvince>
                      <PostalCode>11314</PostalCode>
-                     <CountryName>EE</CountryName>
+                     <CountryName>JP</CountryName>
                   </PostalAddress>
                </PostalAddresses>
                <ElectronicAddress>
@@ -872,7 +836,7 @@
                      <Locality>Tallinn</Locality>
                      <StateOrProvince>Harjumaa</StateOrProvince>
                      <PostalCode>15169</PostalCode>
-                     <CountryName>EE</CountryName>
+                     <CountryName>JP</CountryName>
                   </PostalAddress>
                </PostalAddresses>
                <ElectronicAddress>
@@ -1013,6 +977,6 @@
          </TSPServices>
       </TrustServiceProvider>
    </TrustServiceProviderList>
-<ds:Signature Id="S0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#ecdsa-sha256"/><ds:Reference URI="#TEST-EE"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>XlXsWUpi79Z13XAJrMv5zAZ6a2T6zrJH3hsGekWfejY=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JGSOhzhG8lEEoa6fi4bDN2HyJlIkyswB4IaYQNPAaYc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Bp72pdqob5QnKsIR0NWvKpbbvtCPB0Kuu9Sg0vKvzislx1N9o3vfOE3wlzQcydOXJMaZhjzmxbXzCmXEzH6Xxw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties Target="#S0">
+<ds:Signature Id="S0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#ecdsa-sha256"/><ds:Reference URI="#TEST-EE"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>H/5ouZvb30LalnhT6t8176l25Q0ylaEXNxKXSUB98zo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JGSOhzhG8lEEoa6fi4bDN2HyJlIkyswB4IaYQNPAaYc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>EXXKXDn60wZ3urAE2QD5vJuOiH21uExkxyOCa44ujJiDoMUwnmL0LRP1begCRi5beT9jRnkSoc0EuJaG8sqeRw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties Target="#S0">
 <xades:SignedProperties Id="SignedProperties"><xades:SignedSignatureProperties><xades:SigningTime>2022-11-21T09:06:01Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>fp3RohzKfmFNC4D3q3w0e4fSGbm+nCan5pz30Oljbyc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Test TSL, C=EE</ds:X509IssuerName><ds:X509SerialNumber>10086976385427474061</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties>
 </xades:QualifyingProperties></ds:Object></ds:Signature></TrustServiceStatusList>
