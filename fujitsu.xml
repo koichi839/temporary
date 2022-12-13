@@ -9,20 +9,20 @@
       <SchemeOperatorAddress>
          <PostalAddresses>
             <PostalAddress xml:lang="en">
-               <StreetAddress>139A Pärnu mnt</StreetAddress>
-               <Locality>Tallinn</Locality>
-               <StateOrProvince>Harjumaa</StateOrProvince>
-               <PostalCode>15169</PostalCode>
-               <CountryName>EE</CountryName>
+               <StreetAddress>4-1-1 kamikodanaka</StreetAddress>
+               <Locality>Kawasaki</Locality>
+               <StateOrProvince>Kanagawa</StateOrProvince>
+               <PostalCode>2118588</PostalCode>
+               <CountryName>JP</CountryName>
             </PostalAddress>
          </PostalAddresses>
          <ElectronicAddress>
-            <URI xml:lang="en">mailto:ria@ria.ee</URI>
-            <URI xml:lang="en">https://www.ria.ee</URI>
+            <URI xml:lang="en">mailto:admin@xxxx</URI>
+            <URI xml:lang="en">https://xxxx</URI>
          </ElectronicAddress>
       </SchemeOperatorAddress>
       <SchemeName>
-         <Name xml:lang="en">EE:Supervision/Accreditation Status List of test certification services</Name>
+         <Name xml:lang="en">JP:Supervision/Accreditation Status List of test certification services</Name>
       </SchemeName>
         <SchemeInformationURI>
             <URI xml:lang="en">https://ec.europa.eu/tools/lotl/eu-lotl-pivot-300.xml</URI>
@@ -88,6 +88,37 @@
                     </OtherInformation>
                 </AdditionalInformation>
             </OtherTSLPointer>
+            <OtherTSLPointer>
+            <ServiceDigitalIdentities>
+               <ServiceDigitalIdentity>
+                  <DigitalId>
+                     <X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</X509Certificate>
+                  </DigitalId>
+               </ServiceDigitalIdentity>
+            </ServiceDigitalIdentities>
+            <TSLLocation>https://koichi839.github.io/tools/taas.xml</TSLLocation>
+            <AdditionalInformation>
+               <OtherInformation>
+                  <TSLType>http://uri.etsi.org/TrstSvc/TrustedList/TSLType/EUgeneric</TSLType>
+               </OtherInformation>
+               <OtherInformation>
+                  <SchemeOperatorName>
+                     <Name xml:lang="en">TaaS Test Authority</Name>
+                  </SchemeOperatorName>
+               </OtherInformation>
+               <OtherInformation>
+                  <SchemeTypeCommunityRules>
+                     <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EUcommon</URI>
+                  </SchemeTypeCommunityRules>
+               </OtherInformation>
+               <OtherInformation>
+                  <SchemeTerritory>JP</SchemeTerritory>
+               </OtherInformation>
+               <OtherInformation>
+                  <tslx:MimeType>application/vnd.etsi.tsl+xml</tslx:MimeType>
+               </OtherInformation>
+            </AdditionalInformation>
+         </OtherTSLPointer>
       </PointersToOtherTSL>
       <ListIssueDateTime>2021-02-22T13:00:15Z</ListIssueDateTime>
       <NextUpdate>
