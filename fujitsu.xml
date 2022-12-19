@@ -44,6 +44,37 @@
                 <ServiceDigitalIdentities>
                     <ServiceDigitalIdentity>
                         <DigitalId>
+                            <X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</X509Certificate>
+                        </DigitalId>
+                    </ServiceDigitalIdentity>
+                </ServiceDigitalIdentities>
+                <TSLLocation>https://koichi839.github.io/tools/fujitsu.xml</TSLLocation>
+                <AdditionalInformation>
+                    <OtherInformation>
+                        <TSLType>http://uri.etsi.org/TrstSvc/TrustedList/TSLType/EUlistofthelists</TSLType>
+                    </OtherInformation>
+                    <OtherInformation>
+                        <SchemeTerritory>EU</SchemeTerritory>
+                    </OtherInformation>
+                    <OtherInformation>
+                        <ns3:MimeType>application/vnd.etsi.tsl+xml</ns3:MimeType>
+                    </OtherInformation>
+                    <OtherInformation>
+                        <SchemeOperatorName>
+                            <Name xml:lang="en">JP Commission</Name>
+                        </SchemeOperatorName>
+                    </OtherInformation>
+                    <OtherInformation>
+                        <SchemeTypeCommunityRules>
+                            <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EUlistofthelists</URI>
+                        </SchemeTypeCommunityRules>
+                    </OtherInformation>
+                </AdditionalInformation>
+            </OtherTSLPointer>
+            <OtherTSLPointer>
+                <ServiceDigitalIdentities>
+                    <ServiceDigitalIdentity>
+                        <DigitalId>
                             <X509Certificate>MIIDsDCCApigAwIBAgIJALEKWhHxTIoZMA0GCSqGSIb3DQEBDQUAMG8xLjAsBgNVBAMMJUVzdG9uaWFuIFRydXN0ZWQgTGlzdCBTY2hlbWUgT3BlcmF0b3IxCzAJBgNVBAYTAkVFMTAwLgYDVQQKDCdFc3RvbmlhbiBUZWNobmljYWwgUmVndWxhdG9yeSBBdXRob3JpdHkwHhcNMTcxMjA0MTEzMTM5WhcNMjcwNjAzMTEzMTM5WjBvMS4wLAYDVQQDDCVFc3RvbmlhbiBUcnVzdGVkIExpc3QgU2NoZW1lIE9wZXJhdG9yMQswCQYDVQQGEwJFRTEwMC4GA1UECgwnRXN0b25pYW4gVGVjaG5pY2FsIFJlZ3VsYXRvcnkgQXV0aG9yaXR5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzIn9cZEzFbdPY9fWMH1Fla+oc195JcUbKcrTMSX/mi9lgOTKVPxtE9maKwFRtsdrBpAxeJC0QLbBUHmoOc4rwoBi0Z5eo0aIhvOJZWRAjgG3CCPoyVnTyU4N+JT6Z9QLWkg/2jlX3A210bDrEb0o4pzch6PeUXDmU3tWf/H/JvxQSB3BpnleLEjz5gNfeQJc+1WLFj5gS+U4RcIRPAa2Ji3dkb/LL9W6qt0jUTYHgQcnZlolDMaFklJHugB4nO4YfOvuzSc0KEIhOh62J9eKQ/FtZq+7j+1nrhKc2Kmj9mWk0wKV17ZRiAz7BeLrUk3A/cTpaTLTn4uRRiFqXf1JfwIDAQABo08wTTAMBgNVHRMEBTADAgEAMAsGA1UdDwQEAwIHgDAdBgNVHQ4EFgQUZcjaQmAh8bjQ7HL1m4MWZl8fYxYwEQYDVR0lBAowCAYGBACRNwMAMA0GCSqGSIb3DQEBDQUAA4IBAQBom/cEP5HvY7k4hwZYkA+rxI+TcpqmOX8l4cRiYtvLDsy3AnSv9lTZQRBjf3wPq38pnY1sYXNHcJHcWnbSJe45YsCyXojXFhkVm8UtrDdkq3uE4K3TqP/Ep+7xPNm8srJ5B8pmU13/T5cYTkeHVyH2SwGUS6pW8VYj/kZ1V17GQHtDKR7iQHfiS/ltOWcdIm+Sq3/D5its5wTQPPxExNg6MvdUMB5xZJId+cfPvz4sXXBCqQmfnkEC1xbOSC1+pU0PjWnyzZDPe8wYfIrYblNk57nF+GgWlDIeMWZqNszaBqaxebZSIPZKs+Cq8q+yElE6qUst4f2CPCHl2dtKag9D</X509Certificate>
                         </DigitalId>
                     </ServiceDigitalIdentity>
@@ -128,6 +159,6 @@
          <URI>https://koichi839.github.io/tools/fujitsu.xml</URI>
       </DistributionPoints>
    </SchemeInformation>
-<ds:Signature Id="S0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#ecdsa-sha256"/><ds:Reference URI="#ID0001"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>HuWHk/5YDj/ozWG14vVtdnr77hwyIO7+anzB5B7giXA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JGSOhzhG8lEEoa6fi4bDN2HyJlIkyswB4IaYQNPAaYc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>L9/6DlutzitxxoHRyf9gE+3Dh9ZSPxbq+OqoP1sURUJhJkkVFONKXd02A1+DNCg5bA8syu4RM6MIgTJPA6cLug==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties Target="#S0">
+<ds:Signature Id="S0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#ecdsa-sha256"/><ds:Reference URI="#ID0001"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>7jgx4LB+hG4NC2otidIjnfwLVL9KdXmDvBzISaGCZR8=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JGSOhzhG8lEEoa6fi4bDN2HyJlIkyswB4IaYQNPAaYc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>uHWRwM4FigzUgqVoc3n9mdgzLEuxIrKaAwZ0o/ogafyUE2UsLcRlff9Y3U2XgjXzGKrENfHZ77DjoiQVDEHiwA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIBOTCB4QIUJWi+pALiic84/z73OzvTWe0Tv/YwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMB4XDTIyMTExNzA1MjQzNloXDTMyMTExNDA1MjQzNlowIDELMAkGA1UEBhMCRUUxETAPBgNVBAMMCFRlc3QgVFNMMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ijZuq2/gzwft48VFyLhP2EGbUHLAJEDawz3gAP82q+4xzmWkGRF9LMHT7FI5tNMlxjqXkRbPfS+F/Wc0Pj4eTAKBggqhkjOPQQDAgNHADBEAiBpkhYGUp7kCGtizBtjNGls2FxE1EPkROq6PefKqKP+ugIgU/Bf0RNV0tcQ9ZUoX2NOvpYJBDIP5eRi2hJJ2l/X53A=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties Target="#S0">
 <xades:SignedProperties Id="SignedProperties"><xades:SignedSignatureProperties><xades:SigningTime>2022-11-21T09:06:01Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>fp3RohzKfmFNC4D3q3w0e4fSGbm+nCan5pz30Oljbyc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Test TSL, C=EE</ds:X509IssuerName><ds:X509SerialNumber>10086976385427474061</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties>
 </xades:QualifyingProperties></ds:Object></ds:Signature></TrustServiceStatusList>
